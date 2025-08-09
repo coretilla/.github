@@ -57,21 +57,21 @@ It combines **account abstraction**, **gasless transactions**, and **fiat-to-cry
 
 ---
 
-## 📄 Smart Contract Addresses (Core Blockchain Testnet 2)
+## 📄 Smart Contract Addresses (Mainnet Contract Addresses)
 
 | Contract        | Address                                                                 | Explorer Link |
 |-----------------|-------------------------------------------------------------------------|---------------|
-| **MockBTC**     | `0xf96c5c189a949c73745a277a4acf071b1b9f6df5` | [View Code](https://scan.test2.btcs.network/address/0xf96c5c189a949c73745a277a4acf071b1b9f6df5#code) |
-| **MockUSD**     | `0x4dabf45c8cf333ef1e874c3fdfc3c86799af80c8` | [View Code](https://scan.test2.btcs.network/address/0x4dabf45c8cf333ef1e874c3fdfc3c86799af80c8#code) |
-| **LendingPool** | `0x478AE04E752e47c5b1F597101CeF74f01F0386e6` | [View Code](https://scan.test2.btcs.network/address/0x478AE04E752e47c5b1F597101CeF74f01F0386e6#code) |
-| **StakingVault**| `0x3EF7d600DB474F1a544602Bd7dA33c53d98B7B1b` | [View Code](https://scan.test2.btcs.network/address/0x3EF7d600DB474F1a544602Bd7dA33c53d98B7B1b#code) |
+| **MockBTC**     | `0x4dABf45C8cF333Ef1e874c3FDFC3C86799af80c8` | [View Code in Explorer](https://scan.coredao.org/address/0x4dABf45C8cF333Ef1e874c3FDFC3C86799af80c8#code) |
+| **MockUSD**     | `0x29AFB3d2448ddaa0e039536002234a90aF1e4f31` | [View Code in Explorer](https://scan.coredao.org/address/0x29AFB3d2448ddaa0e039536002234a90aF1e4f31#code) |
+| **LendingPool** | `0x3EF7d600DB474F1a544602Bd7dA33c53d98B7B1b` | [View Code in Explorer](https://scan.coredao.org/address/0x3EF7d600DB474F1a544602Bd7dA33c53d98B7B1b#code) |
+| **StakingVault**| `0x478AE04E752e47c5b1F597101CeF74f01F0386e6` | [View Code in Explorer](https://scan.test2.btcs.network/address/0x478AE04E752e47c5b1F597101CeF74f01F0386e6#code) |
 
 ---
 
 ## 🌐 Network Supported
 
-- **CoreDAO Testnet 2**  
-  Explorer: [https://scan.test2.btcs.network/](https://scan.test2.btcs.network/)
+- **CoreDAO Mainnet 2**  
+  Explorer: [https://scan.coredao.org/](https://scan.coredao.org/)
 
 ---
 
