@@ -70,7 +70,7 @@ It combines **account abstraction**, **gasless transactions**, and **fiat-to-cry
 
 ## 🌐 Network Supported
 
-- **CoreDAO Mainnet 2**  
+- **CoreDAO Mainnet**  
   Explorer: [https://scan.coredao.org/](https://scan.coredao.org/)
 
 ---
@@ -80,3 +80,4 @@ It combines **account abstraction**, **gasless transactions**, and **fiat-to-cry
 MIT License – You are free to use, modify, and distribute this code.
 
 ---
+
