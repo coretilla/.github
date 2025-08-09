@@ -25,11 +25,13 @@ It combines **account abstraction**, **gasless transactions**, and **fiat-to-cry
 - **Limited financial services for BTC** – Most platforms focus only on buying/selling without offering DeFi capabilities.
 - **Poor UX for Bitcoin DeFi** – Existing platforms lack a unified dashboard for staking, lending, borrowing, and investment simulation.
 
-Coretilla solves these by:
+**Coretilla solves these by:**
 - Using **Account Abstraction** to simplify wallet creation.
 - Implementing **gasless transactions** for deposits, swaps, and investments.
 - Offering a **full suite of Bitcoin DeFi tools** in one place.
 - Integrating **Stripe** for USD deposits directly into Bitcoin.
+- Ensuring **100% BTC custody** in user-controlled wallets.
+- Removing KYC barriers for a **frictionless onboarding**.
 
 ---
 
