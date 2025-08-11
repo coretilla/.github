@@ -1,7 +1,6 @@
 # 🟠 Coretilla
 
-<img width="1710" height="895" alt="image" src="https://github.com/user-attachments/assets/031af2cb-4796-4992-9869-d5437cd6824c" />
-
+<img width="1822" height="1124" alt="Screenshot 2025-08-11 at 08 17 40" src="https://github.com/user-attachments/assets/f2619704-f634-4a40-91b9-c33ec43e1a76" />
 
 **Your Digital Bank for the Bitcoin Economy**  
 Coretilla bridges the power of Bitcoin with the simplicity of modern banking — offering deposit, trading, staking, lending, and investment tools all in one platform.
@@ -80,5 +79,6 @@ It combines **account abstraction**, **gasless transactions**, and **fiat-to-cry
 MIT License – You are free to use, modify, and distribute this code.
 
 ---
+
 
 
